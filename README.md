@@ -52,7 +52,7 @@ No exemplo abaixo, você pode visualizar uma interação real com o bot de recic
   <img src="./imagens/exemplo-bot-reciclagem.png" alt="Exemplo de uso do bot de reciclagem no Telegram" width="400"/>
 </p>
 
-![Exemplo de uso do bot de reciclagem no Telegram](./imagens/exemplo-bot-reciclagem.png)
+![Exemplo de uso do bot de reciclagem no Telegram](./exemplo-bot-reciclagem.png)
 
 ## Conclusão
 
