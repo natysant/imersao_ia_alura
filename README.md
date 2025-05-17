@@ -71,3 +71,11 @@ Espero expandir essa iniciativa futuramente para aceitar imagens, identificar lo
 * [https://imersaoia.alura.com.br/](https://imersaoia.alura.com.br/)
 * [https://core.telegram.org/bots/tutorial](https://core.telegram.org/bots/tutorial)
 * [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)
+
+## Contato
+
+Se quiser conversar sobre o projeto, dar sugestões ou colaborar, entre em contato:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiagonat/)
+- 📧 E-mail: [nataliasantiago2@gmail.com](mailto:nataliasantiago2@gmail.com)
+
