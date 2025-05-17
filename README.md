@@ -1,4 +1,4 @@
-# Bot de Reciclagem com IA: Agente Inteligente via Gemini + Telegram
+# ♻️ Bot de Reciclagem com IA: Agente Inteligente via Gemini + Telegram
 
 Este repositório documenta o desenvolvimento de um projeto criado durante a **Imersão IA da Alura + Google Gemini**, inspirado pela minha relação pessoal com a sustentabilidade e a reciclagem.
 
