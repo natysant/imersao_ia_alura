@@ -48,9 +48,7 @@ E receba a resposta correta, já validada e formatada.
 
 No exemplo abaixo, você pode visualizar uma interação real com o bot de reciclagem no Telegram. A imagem foi capturada durante testes e mostra como o usuário envia uma pergunta e recebe uma resposta validada pela IA:
 
-<p align="center">
-  <img src="exemplo-bot-reciclagem.png" alt="Exemplo de uso do bot de reciclagem no Telegram" width="500"/>
-</p>
+
 
 ## Conclusão
 
