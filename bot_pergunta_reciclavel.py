@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, Messa
 from agente_pergunta_reciclavel import agente_reciclagem, agente_validador 
 
 load_dotenv()
-TELEGRAM_TOKEN = os.getenv("TELEGRAM\_TOKEN")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Oi! Sou seu assistente de reciclagem. Me pergunte se um item é reciclável.")
